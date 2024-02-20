@@ -1,5 +1,5 @@
 # Mastermind-demo
-concepts of mastermind. Source Code is private
+concepts of mastermind. UML diagrams, use cases, requirements, images
 
 
 
