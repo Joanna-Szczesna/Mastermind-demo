@@ -405,7 +405,7 @@ run Mastermind-web via intelij (Terminal: ng serve)
 
 ## Diagram przypadków użycia
 
-![Use Case Diagram](http://www.plantuml.com/plantuml/proxy?src=https://raw.githubusercontent.com/Joanna-Szczesna/Mastermind-demo/main/diagrams/use_case/main/diagrams/use_case.puml)
+![Use Case Diagram](http://www.plantuml.com/plantuml/proxy?src=https://raw.githubusercontent.com/Joanna-Szczesna/Mastermind-demo/main/diagrams/use_case.puml)
 
 ## Diagram sekwencji
 
